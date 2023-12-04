@@ -24,7 +24,7 @@ You must always run the sentry node and the validator node on separate machines.
 
 * RAM: 32 GB
 * CPU: 8-core
-* Storage: 2.5 TB SSD
+* Storage: 4 TB SSD
 
 :::info
 
@@ -39,7 +39,7 @@ For Amazon Web Services (AWS), the equivalent of the minimum requirements instan
 
 * RAM: 64 GB
 * CPU: 16-core
-* Storage: 5 TB SSD
+* Storage: 6 TB SSD
 * Bandwidth: 1 Gbit/s
 
 :::info
